@@ -2,7 +2,7 @@
 
 comando necessário para a crianção de uma nova branch via terminal:
 
-git checkout -b (nome da nova brench)
+git checkout -b (nome da nova brench).
 
 
 Este comando vai criar e já trocar para essa nova branch.
